@@ -1,8 +1,8 @@
  -  👋 Hi, I’m @cristianq3
-- 👀 I’m interested in ... Programing
-- 🌱 I’m currently learning ... Javascript, HTML, HTML5, 
-- 💞️ I’m looking to collaborate on ... WEB DEVELOPMENT
-- 📫 How to reach me ... IG @quirogon
+- 👀 I’m interested in ... Programing, FrontEnd Design, UX/UI Design,
+- 🌱 I’m currently learning ... Javascript, HTML, HTML5, CSS.
+- 💞️ I’m looking to collaborate on ... WEB DEVELOPMENT, TESTING, SCRUM MASTER, SCRUM MEMBER... 
+- 📫 How to reach me ... IG @quirogon whatsapp: +54 385 5861884
 
 <!---
 cristianq3/cristianq3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
